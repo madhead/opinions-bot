@@ -1,0 +1,35 @@
+{
+  "update_id": 402422594,
+  "message": {
+    "message_id": 219,
+    "from": {
+      "id": 133429192,
+      "is_bot": false,
+      "first_name": "Waldemar",
+      "last_name": "Tsiamruk",
+      "username": "wtsiamruk",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 133429192,
+      "first_name": "Waldemar",
+      "last_name": "Tsiamruk",
+      "username": "wtsiamruk",
+      "type": "private"
+    },
+    "date": 1593452959,
+    "text": "/remove_from_whitelist https://www.youtube.com/c/maxkatz1",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 22,
+        "type": "bot_command"
+      },
+      {
+        "offset": 23,
+        "length": 34,
+        "type": "url"
+      }
+    ]
+  }
+}
